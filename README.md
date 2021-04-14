@@ -21,4 +21,5 @@ washington.csv
 chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://www.geeksforgeeks.org/global-keyword-in-python/
+https://www.w3schools.com/python/ref_string_isalpha.asp
