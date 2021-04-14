@@ -15,7 +15,10 @@ Each time the user inputs something, the program asks for confirmation.
 This program also features an autocorrect: it is able to understand some common typos.
 
 ### Files used
-Include the files used
+bikeshare.py
+new_york_city.csv
+washington.csv
+chicago.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
