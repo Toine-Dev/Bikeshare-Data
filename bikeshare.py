@@ -49,7 +49,7 @@ days_typos = {'Monday' : {'monday','m','mo','mon','mond','monda','munday','momda
              }
 
 
-answer_typos = {'yes' : {'yes','y','ye','yeah','yea','yees','yeees','yay','ys','yas','yaas','ya','yaa','yap','yup','yep'},
+answer_typos = {'yes' : {'yes','y','ye','yeah','yea','yees','yeees','yay','ys','yas','yaas','ya','yaa','yap','yup','yep','yee'},
                'no' : {'no','noo','nooo','nope','n','na','naa','naaa','noooo'}}
 
 convert = {'New York' : 'new york city', 'Chicago' : 'chicago', 'Washington' : 'washington',
