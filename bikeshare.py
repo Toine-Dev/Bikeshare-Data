@@ -50,7 +50,7 @@ days_typos = {'Monday' : {'monday','m','mo','mon','mond','monda','munday','momda
 
 
 answer_typos = {'yes' : {'yes','y','ye','yeah','yea','yees','yeees','yay','ys','yas','yaas','ya','yaa','yap','yup','yep'},
-               'no' : {'no','noo','nooo','nope','n','na','naa'}}
+               'no' : {'no','noo','nooo','nope','n','na','naa','naaa'}}
 
 convert = {'New York' : 'new york city', 'Chicago' : 'chicago', 'Washington' : 'washington',
           'January' : 1, 'February' : 2, 'March' : 3, 'April' : 4, 'May' : 5, 'June' : 6, 'July' : 7, 'August' : 8, 'September' : 9,
@@ -334,7 +334,7 @@ def main():
             station_stats(df)
             trip_duration_stats(df)
             user_stats(df)
-            
+
             display_raw_data(df)
 
             restart = notypos(str(input('\nWould you like to restart? Enter yes or no. \n')),answer_typos)
