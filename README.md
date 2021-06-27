@@ -12,7 +12,7 @@ iii)a specific day of the week or the entire week.
 Each time the user inputs something, the program asks for confirmation.
 This program also features an autocorrect: it is able to understand some common typos.
 
-### Files used
+#### Files used
 bikeshare.py
 new_york_city.csv
 washington.csv
